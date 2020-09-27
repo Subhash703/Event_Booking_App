@@ -1,4 +1,4 @@
-const home = document.getElementById('home');
+const home = document.getElementById('bg-image');
 
 const images = [
     "https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
